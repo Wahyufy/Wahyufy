@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on Micro, Macro Massive at Infinite Learning
 - 📫 How to reach me
 - Instagram : @__wahyu_f
-- Faceebok : Wahyu Febryanto
-- WhatsAp : 085337093855
 - ⚡ Fun fact: I like reading, I like play basketball, I like play video game
 
 <!---
