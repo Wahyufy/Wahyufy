@@ -7,7 +7,7 @@
 - 📫 How to reach me
 - Instagram : @__wahyu_f
 - LinkedIn  : Wahyu Febryanto
-- ⚡ Fun fact: I like reading, I like play basketball, I Like Climbing, and I like play video game
+- ⚡ Fun fact: I like reading, I like play basketball, I like climbing, and I like play video game
 
 <!---
 Wahyufy/Wahyufy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
