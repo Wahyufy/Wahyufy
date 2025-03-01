@@ -1,6 +1,6 @@
 #Assalamualaikum
-Hi, I’m @Wahyu Febryanto
-I’m a student on IBM Academy Advanced AI at Infinite Learning
+- Hi, I’m @Wahyu Febryanto
+- I’m a student on IBM Academy Advanced AI at Infinite Learning
 - 👀 I’m interested in Electrical engineering, AI, Design.
 I’m currently learning Python
 I’m looking to collaborate on Micro, Macro Massive at Infinite Learning
